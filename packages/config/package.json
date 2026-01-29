@@ -1,0 +1,13 @@
+{
+  "name": "@meetai/config",
+  "version": "0.1.0",
+  "private": true,
+  "exports": {
+    "./eslint": "./eslint.config.mjs",
+    "./typescript": "./tsconfig.json"
+  },
+  "files": [
+    "eslint.config.mjs",
+    "tsconfig.json"
+  ]
+}
